@@ -56,4 +56,3 @@ def calculate_total(amounts):
 total = 0
 for i in amounts:
 total += i
-
